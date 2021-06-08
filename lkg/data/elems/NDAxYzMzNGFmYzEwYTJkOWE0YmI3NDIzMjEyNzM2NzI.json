@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ehlKF8LBb+I/vYauf1kmlg==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "span_X799_Y56_W53_H22", 
+    "human_readable": "span_799_56_53_22_span_0000000000007800f800dffb9fff9ffe9fffffff7fff00000000000000000000_962b74c4a4de710ef7e1fc5efa538b69", 
+    "image_path": "NDAxYzMzNGFmYzEwYTJkOWE0YmI3NDIzMjEyNzM2NzI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Classes", 
+            "type": "", 
+            "value": "", 
+            "width": 53, 
+            "x": 799, 
+            "xPercent": 41.615397135416664, 
+            "y": 56, 
+            "yPercent": 0.9203980099502488
+        }, 
+        "location": {
+            "x": 799, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 53
+        }, 
+        "tag_name": "span", 
+        "text": "Classes"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "03ef037acb434f9deebd3c6c0c478c3e", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Classes", 
+    "transformed": true, 
+    "width": 53, 
+    "x": 799, 
+    "y": 56
+}

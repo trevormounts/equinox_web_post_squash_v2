@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "I8kusZIjL0Cie1ABwyDELg==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "span_X1068_Y56_W37_H22", 
+    "human_readable": "span_1068_56_37_22_span_0000000000007c007c004f6e7fff3d9b5d9b5dff7d6e00080008000000000000_d5d7c7ca8cf1a6a118c51745dc3c129b", 
+    "image_path": "Yzc0YjY4ZmU5NDdhNzE5NzU3ZDEwNGRmMGRjYzBmYTQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Shop", 
+            "type": "", 
+            "value": "", 
+            "width": 37, 
+            "x": 1068, 
+            "xPercent": 55.64453124999999, 
+            "y": 56, 
+            "yPercent": 0.6618173145719055
+        }, 
+        "location": {
+            "x": 1068, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 37
+        }, 
+        "tag_name": "span", 
+        "text": "Shop"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "bcd644a12d2611bdba3623ebee1f615b", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Shop", 
+    "transformed": true, 
+    "width": 37, 
+    "x": 1068, 
+    "y": 56
+}
