@@ -2,6 +2,7 @@
     "002 Find A Club": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "002 Find A Club", 
         "steps": [
             {
                 "continue_on_failure": false, 
